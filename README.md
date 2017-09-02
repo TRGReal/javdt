@@ -1,2 +1,2 @@
 # javdt
-Joke web-based "antivirus"-like program. Features donald trump.
+Joke web-based "antivirus"-like program. Features hillary clinton.
